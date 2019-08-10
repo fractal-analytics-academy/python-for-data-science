@@ -1,0 +1,1 @@
+**Note** : This folder contains all notebooks supporting the e-learning videos for the **Python for Data Science** course
